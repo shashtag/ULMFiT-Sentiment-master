@@ -52,7 +52,6 @@ Please feel free to fork the above repository and open an issue first before sub
 
 ## Authors
 
-* **Anmol Pant** - *Initial work* - (https://github.com/anmolpant)
 
 ## License
 
